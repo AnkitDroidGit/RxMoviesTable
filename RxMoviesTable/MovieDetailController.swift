@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MovieDetailController.Swift
 //  RxMoviesTable
 //
 //  Created by Ankit Kumar on 26/03/2018.
@@ -48,8 +48,6 @@ class MovieDetailController: UIViewController {
             .addDisposableTo(disposeBag)
         
     }
-    
-    
 
 }
 
